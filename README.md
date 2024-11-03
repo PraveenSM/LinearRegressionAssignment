@@ -11,34 +11,28 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This project meant for assignment which build the model for target variable rental count for bike rental firm.
+- Objective is to build the model to predict which variable have most impact and how much.
+- As part tof this project all MLR concepts are used.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Model is built with R-Square around ~84
+- Identified the most impactful variables
+- Covered and used all needed concepts
+- All the conlusions were tested on the data set and proved thar model is best fit.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Statsmodel, sklearn, pandas, numpy libraries
+- Concepts of MLR such as RSS, R-square, P-value
+- Python notebook is used to evaluate and build the model
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by upgrad, Mainly meant for assignment. 
 
 
 ## Contact
